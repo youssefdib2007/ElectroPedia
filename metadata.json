@@ -1,0 +1,6 @@
+{
+  "name": "ElectroPedia",
+  "description": "موسوعتك الشاملة في عالم الكهرباء والإلكترونيات — Explore. Learn. Connect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
